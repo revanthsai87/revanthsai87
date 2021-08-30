@@ -1,9 +1,13 @@
-### Hey 👋, Revanth... 
+### Hey 👋, I am Revanth... 
 - 👀 I’m interested in Problem solving 
 - 🌱 I’m currently doing Masters from Bits Pilani
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me
-- ### Languages
+- 💞️ I’m looking to collaborate on preparation for Placements
+### Follow Me Here
+[![](https://img.shields.io/badge/-Linkedin-000?&logo=LinkedIn)](https://in.linkedin.com/in/revanth-sai-praneeth-yalamanchili-162817173)
+[![](https://img.shields.io/badge/-Instagram-000?&logo=Instagram)](https://www.instagram.com/revanthsaiy/)
+[![](https://img.shields.io/badge/-Facebook-000?&logo=Facebook)](https://www.facebook.com/revanth.sai.330/)
+[![](https://img.shields.io/badge/-Twitter-000?&logo=Twitter)](https://twitter.com/revanthsai87)
+### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
